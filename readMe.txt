@@ -4,3 +4,5 @@ This is private Java Test repository if you want to learning basic java programm
 
 2020-01-26
 Updated Socket Programming File Stream.
++ add Collections
++ add HashMap
